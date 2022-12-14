@@ -1,3 +1,4 @@
+import React, { Component } from "react";
 import Home from "./components/routes/Home";
 import NavBar from "./components/bar/NavBar";
 import { BrowserRouter as Router, useRoutes } from "react-router-dom";
@@ -12,14 +13,13 @@ import Task6 from "./components/tasks/Task6";
 
 function App() {
   let routes = useRoutes([
-    { path: "/", element: <Home /> },
-    { path: "/action/2.1", element: <Task1 /> },
-    { path: "/action/2.2", element: <Task2 /> },
-    { path: "/action/2.3", element: <Task3 /> },
-    { path: "/action/2.4", element: <Task4 /> },
-    { path: "/action/3.1", element: <Task5 /> },
-    { path: "/action/3.2", element: <Task6 /> },
-    // ...
+    { path: "/sgs-test-app/", element: <Home /> },
+    { path: "/sgs-test-app/action/2.1", element: <Task1 /> },
+    { path: "/sgs-test-app/action/2.2", element: <Task2 /> },
+    { path: "/sgs-test-app/action/2.3", element: <Task3 /> },
+    { path: "/sgs-test-app/action/2.4", element: <Task4 /> },
+    { path: "/sgs-test-app/action/3.1", element: <Task5 /> },
+    { path: "/sgs-test-app/action/3.2", element: <Task6 /> },
   ]);
   return (
     <div>

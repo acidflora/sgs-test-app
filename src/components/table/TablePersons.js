@@ -1,4 +1,5 @@
 import Table from "react-bootstrap/Table";
+import React from "react";
 
 const TablePersons = (props) => {
   return (

@@ -1,5 +1,6 @@
 import { Button, Card } from "react-bootstrap";
 import "./codeSnippet.css";
+import React from "react";
 
 const codeSnippet = `USE [SGSDB]
 IF OBJECT_ID('dbo.Containers', 'U') IS NOT NULL
@@ -36,7 +37,7 @@ const Task1 = (props) => {
         <code>{codeSnippet}</code>
       </Card.Body>
       <Card.Footer>
-        <Button variant="primary" href="/action/2.2">
+        <Button variant="primary" href="/sgs-test-app/action/2.2">
           Next Task
         </Button>
       </Card.Footer>

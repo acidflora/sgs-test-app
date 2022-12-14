@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Button, Card } from "react-bootstrap";
+import React from "react";
 
 import Filter from "../filter/Filter";
 import TablePersons from "../table/TablePersons";
@@ -91,7 +92,7 @@ const Task6 = (props) => {
         </div>
       </Card.Body>
       <Card.Footer>
-        <Button variant="primary" href="/">
+        <Button variant="primary" href="/sgs-test-app/">
           Home
         </Button>
       </Card.Footer>

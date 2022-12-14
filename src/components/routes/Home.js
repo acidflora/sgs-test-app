@@ -2,6 +2,7 @@ import Card from "react-bootstrap/Card";
 import Nav from "react-bootstrap/Nav";
 import ListGroup from "react-bootstrap/ListGroup";
 import ContentCard from "../ui/ContentCard";
+import React from "react";
 
 const Home = (props) => {
   return (

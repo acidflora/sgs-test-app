@@ -1,5 +1,6 @@
 import { Button, Card } from "react-bootstrap";
 import "./codeSnippet.css";
+import React from "react";
 
 const codeSnippet = `USE [SGSDB]
 GO
@@ -31,7 +32,7 @@ const Task3 = (props) => {
         <code>{codeSnippet}</code>
       </Card.Body>
       <Card.Footer>
-        <Button variant="primary" href="/action/2.4">
+        <Button variant="primary" href="/sgs-test-app/action/2.4">
           Next Task
         </Button>
       </Card.Footer>

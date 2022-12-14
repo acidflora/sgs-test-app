@@ -1,5 +1,6 @@
 import { Button, Card } from "react-bootstrap";
 import kit from "../images/kit_meme.jpg";
+import React from "react";
 
 const Task5 = (props) => {
   return (
@@ -12,7 +13,7 @@ const Task5 = (props) => {
         next page, I implemented the form in react.js
       </Card.Body>
       <Card.Footer>
-        <Button variant="primary" href="/action/3.2">
+        <Button variant="primary" href="/sgs-test-app/action/3.2">
           Next Task
         </Button>
       </Card.Footer>
