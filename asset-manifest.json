@@ -1,7 +1,7 @@
 {
   "main.css": "/sgs-test-app/static/css/main.5829dd6c.chunk.css",
-  "main.js": "/sgs-test-app/static/js/main.bce529e0.chunk.js",
-  "main.js.map": "/sgs-test-app/static/js/main.bce529e0.chunk.js.map",
+  "main.js": "/sgs-test-app/static/js/main.899c4d8d.chunk.js",
+  "main.js.map": "/sgs-test-app/static/js/main.899c4d8d.chunk.js.map",
   "static/css/1.bcca8d36.chunk.css": "/sgs-test-app/static/css/1.bcca8d36.chunk.css",
   "static/js/1.be4bfbff.chunk.js": "/sgs-test-app/static/js/1.be4bfbff.chunk.js",
   "static/js/1.be4bfbff.chunk.js.map": "/sgs-test-app/static/js/1.be4bfbff.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.5829dd6c.chunk.css.map": "/sgs-test-app/static/css/main.5829dd6c.chunk.css.map",
   "static/css/1.bcca8d36.chunk.css.map": "/sgs-test-app/static/css/1.bcca8d36.chunk.css.map",
   "index.html": "/sgs-test-app/index.html",
-  "precache-manifest.cf09b78e6dc8687df9d659089ff75861.js": "/sgs-test-app/precache-manifest.cf09b78e6dc8687df9d659089ff75861.js",
+  "precache-manifest.6206dbc79ab6e040d8d5ef8fb5c7c096.js": "/sgs-test-app/precache-manifest.6206dbc79ab6e040d8d5ef8fb5c7c096.js",
   "service-worker.js": "/sgs-test-app/service-worker.js"
 }
