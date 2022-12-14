@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/kit_meme.c12226bb.jpg"
   },
   {
-    "revision": "561c4791351ef46ac4b6db6914a3bb2f",
+    "revision": "19d77ded84931a2016551e0ce126b975",
     "url": "/index.html"
   }
 ];
