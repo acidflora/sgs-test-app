@@ -8,8 +8,8 @@
   "runtime~main.js": "/sgs-test-app/static/js/runtime~main.7f30167e.js",
   "runtime~main.js.map": "/sgs-test-app/static/js/runtime~main.7f30167e.js.map",
   "static/media/kit_meme.jpg": "/sgs-test-app/static/media/kit_meme.c12226bb.jpg",
-  "static/css/1.bcca8d36.chunk.css.map": "/sgs-test-app/static/css/1.bcca8d36.chunk.css.map",
   "static/css/main.5829dd6c.chunk.css.map": "/sgs-test-app/static/css/main.5829dd6c.chunk.css.map",
+  "static/css/1.bcca8d36.chunk.css.map": "/sgs-test-app/static/css/1.bcca8d36.chunk.css.map",
   "index.html": "/sgs-test-app/index.html",
   "precache-manifest.1aed14db3e27a345d21c8efb67869af4.js": "/sgs-test-app/precache-manifest.1aed14db3e27a345d21c8efb67869af4.js",
   "service-worker.js": "/sgs-test-app/service-worker.js"
