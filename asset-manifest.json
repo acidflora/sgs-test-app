@@ -1,16 +1,16 @@
 {
   "main.css": "/sgs-test-app/static/css/main.5829dd6c.chunk.css",
-  "main.js": "/sgs-test-app/static/js/main.f2cd41cc.chunk.js",
-  "main.js.map": "/sgs-test-app/static/js/main.f2cd41cc.chunk.js.map",
+  "main.js": "/sgs-test-app/static/js/main.47305a4c.chunk.js",
+  "main.js.map": "/sgs-test-app/static/js/main.47305a4c.chunk.js.map",
   "static/css/1.bcca8d36.chunk.css": "/sgs-test-app/static/css/1.bcca8d36.chunk.css",
-  "static/js/1.50892e71.chunk.js": "/sgs-test-app/static/js/1.50892e71.chunk.js",
-  "static/js/1.50892e71.chunk.js.map": "/sgs-test-app/static/js/1.50892e71.chunk.js.map",
+  "static/js/1.2f73aeaa.chunk.js": "/sgs-test-app/static/js/1.2f73aeaa.chunk.js",
+  "static/js/1.2f73aeaa.chunk.js.map": "/sgs-test-app/static/js/1.2f73aeaa.chunk.js.map",
   "runtime~main.js": "/sgs-test-app/static/js/runtime~main.7f30167e.js",
   "runtime~main.js.map": "/sgs-test-app/static/js/runtime~main.7f30167e.js.map",
   "static/media/kit_meme.jpg": "/sgs-test-app/static/media/kit_meme.c12226bb.jpg",
-  "static/css/1.bcca8d36.chunk.css.map": "/sgs-test-app/static/css/1.bcca8d36.chunk.css.map",
   "static/css/main.5829dd6c.chunk.css.map": "/sgs-test-app/static/css/main.5829dd6c.chunk.css.map",
+  "static/css/1.bcca8d36.chunk.css.map": "/sgs-test-app/static/css/1.bcca8d36.chunk.css.map",
   "index.html": "/sgs-test-app/index.html",
-  "precache-manifest.84f5910dd18d56cc15a4237e5d3096d2.js": "/sgs-test-app/precache-manifest.84f5910dd18d56cc15a4237e5d3096d2.js",
+  "precache-manifest.72d103eb27c6b4f53e73a9726e4e0ccf.js": "/sgs-test-app/precache-manifest.72d103eb27c6b4f53e73a9726e4e0ccf.js",
   "service-worker.js": "/sgs-test-app/service-worker.js"
 }
