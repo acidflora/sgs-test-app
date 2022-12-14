@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "47305a4cc5e3ba886533",
+    "revision": "6094374f88726fd213fc",
     "url": "/sgs-test-app/static/css/main.5829dd6c.chunk.css"
   },
   {
-    "revision": "47305a4cc5e3ba886533",
-    "url": "/sgs-test-app/static/js/main.47305a4c.chunk.js"
+    "revision": "6094374f88726fd213fc",
+    "url": "/sgs-test-app/static/js/main.6094374f.chunk.js"
   },
   {
-    "revision": "2f73aeaaf2872a6f020b",
+    "revision": "be4bfbff8df092fe8c7b",
     "url": "/sgs-test-app/static/css/1.bcca8d36.chunk.css"
   },
   {
-    "revision": "2f73aeaaf2872a6f020b",
-    "url": "/sgs-test-app/static/js/1.2f73aeaa.chunk.js"
+    "revision": "be4bfbff8df092fe8c7b",
+    "url": "/sgs-test-app/static/js/1.be4bfbff.chunk.js"
   },
   {
     "revision": "7f30167eea2060e31c11",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/sgs-test-app/static/media/kit_meme.c12226bb.jpg"
   },
   {
-    "revision": "c114b5be7336cb0b8c554e52adab0175",
+    "revision": "a13183a7d119875052ad5d321d15fdb4",
     "url": "/sgs-test-app/index.html"
   }
 ];
