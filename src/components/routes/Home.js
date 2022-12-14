@@ -11,8 +11,8 @@ const Home = (props) => {
       <Card.Body>
         <Card.Title>
           <a>
-            My name is Artem Kupriyanov. I made this web app to showcase my hard
-            skills
+            My name is Artem Kupriyanov. I have make this web app to demonstrate
+            my hard skills
           </a>
           <br />
         </Card.Title>
@@ -25,7 +25,7 @@ const Home = (props) => {
             My hh.kz account
           </a>
           <p>My phone number +7(747)108-50-21</p>
-          <p>Below you can find my solution to the tasks proposed to me</p>
+          <p>You could find my solution to the tasks down below</p>
         </Card.Text>
       </Card.Body>
 
@@ -33,35 +33,35 @@ const Home = (props) => {
         <Card.Text>
           <ListGroup>
             <ListGroup.Item>
-              <Nav.Link href="/action/2.1">
+              <Nav.Link href="/sgs-test-app/action/2.1">
                 Write scripts to create a table with containers
               </Nav.Link>
             </ListGroup.Item>
             <ListGroup.Item>
-              <Nav.Link href="/action/2.2">
+              <Nav.Link href="/sgs-test-app/action/2.2">
                 Write scripts to create a table with operations
               </Nav.Link>
             </ListGroup.Item>
             <ListGroup.Item>
-              <Nav.Link href="/action/2.3">
+              <Nav.Link href="/sgs-test-app/action/2.3">
                 Write a query that selects from the first table all container
                 data in JSON format without using the built-in function
               </Nav.Link>
             </ListGroup.Item>
             <ListGroup.Item>
-              <Nav.Link href="/action/2.4">
+              <Nav.Link href="/sgs-test-app/action/2.4">
                 Write a query that selects from the second table all transaction
                 data for a specific container in JSON format without using the
                 built-in function
               </Nav.Link>
             </ListGroup.Item>
             <ListGroup.Item>
-              <Nav.Link href="/action/3.1">
+              <Nav.Link href="/sgs-test-app/action/3.1">
                 Create a form using Html + JavaScript
               </Nav.Link>
             </ListGroup.Item>
             <ListGroup.Item>
-              <Nav.Link href="/action/3.2">
+              <Nav.Link href="/sgs-test-app/action/3.2">
                 Make a similar form in Vue.JS
               </Nav.Link>
             </ListGroup.Item>
