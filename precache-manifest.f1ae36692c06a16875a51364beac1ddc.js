@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8ff1931339146ee6b3b9",
+    "revision": "36b8e974c106d17871a2",
     "url": "/sgs-test-app/static/css/main.5829dd6c.chunk.css"
   },
   {
-    "revision": "8ff1931339146ee6b3b9",
-    "url": "/sgs-test-app/static/js/main.8ff19313.chunk.js"
+    "revision": "36b8e974c106d17871a2",
+    "url": "/sgs-test-app/static/js/main.36b8e974.chunk.js"
   },
   {
     "revision": "be4bfbff8df092fe8c7b",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/sgs-test-app/static/media/kit_meme.c12226bb.jpg"
   },
   {
-    "revision": "d71b88d0755a7478cd39ac1ad8543578",
+    "revision": "2b9bd838e97b91c8fd3727abe5dd7b7f",
     "url": "/sgs-test-app/index.html"
   }
 ];
